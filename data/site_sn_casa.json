@@ -1,0 +1,1310 @@
+{
+  "site_id": "SN-CASA",
+  "nodes": [
+    {
+      "id": "COORD-SN-CASA",
+      "type": "base",
+      "lat": 12.5833,
+      "lon": -16.2833
+    },
+    {
+      "id": "X-01",
+      "type": "carrefour",
+      "lat": 12.62599,
+      "lon": -16.27637
+    },
+    {
+      "id": "X-02",
+      "type": "carrefour",
+      "lat": 12.58805,
+      "lon": -16.25467
+    },
+    {
+      "id": "X-03",
+      "type": "carrefour",
+      "lat": 12.56268,
+      "lon": -16.32588
+    },
+    {
+      "id": "X-04",
+      "type": "carrefour",
+      "lat": 12.62693,
+      "lon": -16.25612
+    },
+    {
+      "id": "X-05",
+      "type": "carrefour",
+      "lat": 12.6178,
+      "lon": -16.2766
+    },
+    {
+      "id": "X-06",
+      "type": "carrefour",
+      "lat": 12.55804,
+      "lon": -16.28417
+    },
+    {
+      "id": "X-07",
+      "type": "carrefour",
+      "lat": 12.58608,
+      "lon": -16.27474
+    },
+    {
+      "id": "X-08",
+      "type": "carrefour",
+      "lat": 12.54145,
+      "lon": -16.29574
+    },
+    {
+      "id": "X-09",
+      "type": "carrefour",
+      "lat": 12.56181,
+      "lon": -16.29713
+    },
+    {
+      "id": "X-10",
+      "type": "carrefour",
+      "lat": 12.63189,
+      "lon": -16.28127
+    },
+    {
+      "id": "X-11",
+      "type": "carrefour",
+      "lat": 12.56777,
+      "lon": -16.3304
+    },
+    {
+      "id": "X-12",
+      "type": "carrefour",
+      "lat": 12.60094,
+      "lon": -16.25653
+    },
+    {
+      "id": "X-13",
+      "type": "carrefour",
+      "lat": 12.55592,
+      "lon": -16.23694
+    },
+    {
+      "id": "X-14",
+      "type": "carrefour",
+      "lat": 12.59681,
+      "lon": -16.27367
+    },
+    {
+      "id": "X-15",
+      "type": "carrefour",
+      "lat": 12.54374,
+      "lon": -16.31423
+    },
+    {
+      "id": "X-16",
+      "type": "carrefour",
+      "lat": 12.57713,
+      "lon": -16.33265
+    },
+    {
+      "id": "X-17",
+      "type": "carrefour",
+      "lat": 12.62232,
+      "lon": -16.29012
+    },
+    {
+      "id": "X-18",
+      "type": "carrefour",
+      "lat": 12.55181,
+      "lon": -16.29424
+    },
+    {
+      "id": "X-19",
+      "type": "carrefour",
+      "lat": 12.5471,
+      "lon": -16.31748
+    },
+    {
+      "id": "X-20",
+      "type": "carrefour",
+      "lat": 12.53893,
+      "lon": -16.30732
+    },
+    {
+      "id": "X-21",
+      "type": "carrefour",
+      "lat": 12.6268,
+      "lon": -16.2701
+    },
+    {
+      "id": "X-22",
+      "type": "carrefour",
+      "lat": 12.57698,
+      "lon": -16.25767
+    },
+    {
+      "id": "X-23",
+      "type": "carrefour",
+      "lat": 12.58495,
+      "lon": -16.26775
+    },
+    {
+      "id": "X-24",
+      "type": "carrefour",
+      "lat": 12.5803,
+      "lon": -16.26597
+    },
+    {
+      "id": "X-25",
+      "type": "carrefour",
+      "lat": 12.55483,
+      "lon": -16.25015
+    },
+    {
+      "id": "SN-CASA-001",
+      "type": "ruche",
+      "lat": 12.59158,
+      "lon": -16.25069
+    },
+    {
+      "id": "SN-CASA-002",
+      "type": "ruche",
+      "lat": 12.60905,
+      "lon": -16.29439
+    },
+    {
+      "id": "SN-CASA-003",
+      "type": "ruche",
+      "lat": 12.54962,
+      "lon": -16.31153
+    },
+    {
+      "id": "SN-CASA-004",
+      "type": "ruche",
+      "lat": 12.58038,
+      "lon": -16.30602
+    },
+    {
+      "id": "SN-CASA-005",
+      "type": "ruche",
+      "lat": 12.56742,
+      "lon": -16.26792
+    },
+    {
+      "id": "SN-CASA-006",
+      "type": "ruche",
+      "lat": 12.54903,
+      "lon": -16.32575
+    },
+    {
+      "id": "SN-CASA-007",
+      "type": "ruche",
+      "lat": 12.56719,
+      "lon": -16.32119
+    },
+    {
+      "id": "SN-CASA-008",
+      "type": "ruche",
+      "lat": 12.59137,
+      "lon": -16.33347
+    },
+    {
+      "id": "SN-CASA-009",
+      "type": "ruche",
+      "lat": 12.60865,
+      "lon": -16.27799
+    },
+    {
+      "id": "SN-CASA-010",
+      "type": "ruche",
+      "lat": 12.57992,
+      "lon": -16.25239
+    },
+    {
+      "id": "SN-CASA-011",
+      "type": "ruche",
+      "lat": 12.60655,
+      "lon": -16.29223
+    },
+    {
+      "id": "SN-CASA-012",
+      "type": "ruche",
+      "lat": 12.5633,
+      "lon": -16.23567
+    },
+    {
+      "id": "SN-CASA-013",
+      "type": "ruche",
+      "lat": 12.54862,
+      "lon": -16.25596
+    },
+    {
+      "id": "SN-CASA-014",
+      "type": "ruche",
+      "lat": 12.53333,
+      "lon": -16.26976
+    },
+    {
+      "id": "SN-CASA-015",
+      "type": "ruche",
+      "lat": 12.58389,
+      "lon": -16.2548
+    },
+    {
+      "id": "SN-CASA-016",
+      "type": "ruche",
+      "lat": 12.58006,
+      "lon": -16.24194
+    },
+    {
+      "id": "SN-CASA-017",
+      "type": "ruche",
+      "lat": 12.6164,
+      "lon": -16.30866
+    },
+    {
+      "id": "SN-CASA-018",
+      "type": "ruche",
+      "lat": 12.58984,
+      "lon": -16.24895
+    },
+    {
+      "id": "SN-CASA-019",
+      "type": "ruche",
+      "lat": 12.52941,
+      "lon": -16.28661
+    },
+    {
+      "id": "SN-CASA-020",
+      "type": "ruche",
+      "lat": 12.59889,
+      "lon": -16.27843
+    },
+    {
+      "id": "SN-CASA-021",
+      "type": "ruche",
+      "lat": 12.57084,
+      "lon": -16.29647
+    },
+    {
+      "id": "SN-CASA-022",
+      "type": "ruche",
+      "lat": 12.54083,
+      "lon": -16.26014
+    },
+    {
+      "id": "SN-CASA-023",
+      "type": "ruche",
+      "lat": 12.57327,
+      "lon": -16.27385
+    },
+    {
+      "id": "SN-CASA-024",
+      "type": "ruche",
+      "lat": 12.53025,
+      "lon": -16.29336
+    },
+    {
+      "id": "SN-CASA-025",
+      "type": "ruche",
+      "lat": 12.61745,
+      "lon": -16.32518
+    },
+    {
+      "id": "SN-CASA-026",
+      "type": "ruche",
+      "lat": 12.58224,
+      "lon": -16.28913
+    },
+    {
+      "id": "SN-CASA-027",
+      "type": "ruche",
+      "lat": 12.53987,
+      "lon": -16.29383
+    },
+    {
+      "id": "SN-CASA-028",
+      "type": "ruche",
+      "lat": 12.56563,
+      "lon": -16.30545
+    },
+    {
+      "id": "SN-CASA-029",
+      "type": "ruche",
+      "lat": 12.56674,
+      "lon": -16.27593
+    },
+    {
+      "id": "SN-CASA-030",
+      "type": "ruche",
+      "lat": 12.61819,
+      "lon": -16.29397
+    },
+    {
+      "id": "SN-CASA-031",
+      "type": "ruche",
+      "lat": 12.57905,
+      "lon": -16.23165
+    },
+    {
+      "id": "SN-CASA-032",
+      "type": "ruche",
+      "lat": 12.59988,
+      "lon": -16.24799
+    },
+    {
+      "id": "SN-CASA-033",
+      "type": "ruche",
+      "lat": 12.61877,
+      "lon": -16.32175
+    },
+    {
+      "id": "SN-CASA-034",
+      "type": "ruche",
+      "lat": 12.56433,
+      "lon": -16.30649
+    },
+    {
+      "id": "SN-CASA-035",
+      "type": "ruche",
+      "lat": 12.60748,
+      "lon": -16.24789
+    },
+    {
+      "id": "SN-CASA-036",
+      "type": "ruche",
+      "lat": 12.53754,
+      "lon": -16.29514
+    },
+    {
+      "id": "SN-CASA-037",
+      "type": "ruche",
+      "lat": 12.53647,
+      "lon": -16.29256
+    },
+    {
+      "id": "SN-CASA-038",
+      "type": "ruche",
+      "lat": 12.58272,
+      "lon": -16.28212
+    },
+    {
+      "id": "SN-CASA-039",
+      "type": "ruche",
+      "lat": 12.59011,
+      "lon": -16.28663
+    },
+    {
+      "id": "SN-CASA-040",
+      "type": "ruche",
+      "lat": 12.60817,
+      "lon": -16.32853
+    },
+    {
+      "id": "SN-CASA-041",
+      "type": "ruche",
+      "lat": 12.61131,
+      "lon": -16.27237
+    },
+    {
+      "id": "SN-CASA-042",
+      "type": "ruche",
+      "lat": 12.63116,
+      "lon": -16.30028
+    },
+    {
+      "id": "SN-CASA-043",
+      "type": "ruche",
+      "lat": 12.56754,
+      "lon": -16.28188
+    },
+    {
+      "id": "SN-CASA-044",
+      "type": "ruche",
+      "lat": 12.58425,
+      "lon": -16.29784
+    },
+    {
+      "id": "SN-CASA-045",
+      "type": "ruche",
+      "lat": 12.61603,
+      "lon": -16.24831
+    },
+    {
+      "id": "SN-CASA-046",
+      "type": "ruche",
+      "lat": 12.54784,
+      "lon": -16.29505
+    },
+    {
+      "id": "SN-CASA-047",
+      "type": "ruche",
+      "lat": 12.60266,
+      "lon": -16.30378
+    },
+    {
+      "id": "SN-CASA-048",
+      "type": "ruche",
+      "lat": 12.59166,
+      "lon": -16.24831
+    },
+    {
+      "id": "SN-CASA-049",
+      "type": "ruche",
+      "lat": 12.57831,
+      "lon": -16.32365
+    },
+    {
+      "id": "SN-CASA-050",
+      "type": "ruche",
+      "lat": 12.57413,
+      "lon": -16.2603
+    }
+  ],
+  "edges": [
+    {
+      "from": "X-01",
+      "to": "X-21",
+      "type": "piste",
+      "distance_km": 0.892,
+      "time_min": 2.14
+    },
+    {
+      "from": "X-01",
+      "to": "X-10",
+      "type": "piste",
+      "distance_km": 1.098,
+      "time_min": 2.64
+    },
+    {
+      "from": "X-01",
+      "to": "X-05",
+      "type": "piste",
+      "distance_km": 1.184,
+      "time_min": 2.84
+    },
+    {
+      "from": "X-02",
+      "to": "X-22",
+      "type": "piste",
+      "distance_km": 1.655,
+      "time_min": 3.97
+    },
+    {
+      "from": "X-02",
+      "to": "X-12",
+      "type": "route",
+      "distance_km": 1.882,
+      "time_min": 2.26
+    },
+    {
+      "from": "X-02",
+      "to": "X-23",
+      "type": "route",
+      "distance_km": 1.899,
+      "time_min": 2.28
+    },
+    {
+      "from": "X-03",
+      "to": "X-11",
+      "type": "piste",
+      "distance_km": 0.974,
+      "time_min": 2.34
+    },
+    {
+      "from": "X-03",
+      "to": "X-16",
+      "type": "piste",
+      "distance_km": 2.297,
+      "time_min": 5.51
+    },
+    {
+      "from": "X-03",
+      "to": "X-19",
+      "type": "route",
+      "distance_km": 2.545,
+      "time_min": 3.05
+    },
+    {
+      "from": "X-04",
+      "to": "X-21",
+      "type": "route",
+      "distance_km": 1.972,
+      "time_min": 2.37
+    },
+    {
+      "from": "X-04",
+      "to": "X-01",
+      "type": "route",
+      "distance_km": 2.86,
+      "time_min": 3.43
+    },
+    {
+      "from": "X-04",
+      "to": "X-05",
+      "type": "piste",
+      "distance_km": 3.176,
+      "time_min": 7.62
+    },
+    {
+      "from": "X-05",
+      "to": "X-21",
+      "type": "piste",
+      "distance_km": 1.592,
+      "time_min": 3.82
+    },
+    {
+      "from": "X-05",
+      "to": "X-17",
+      "type": "piste",
+      "distance_km": 2.016,
+      "time_min": 4.84
+    },
+    {
+      "from": "X-06",
+      "to": "X-18",
+      "type": "route",
+      "distance_km": 1.682,
+      "time_min": 2.02
+    },
+    {
+      "from": "X-06",
+      "to": "X-09",
+      "type": "route",
+      "distance_km": 1.908,
+      "time_min": 2.29
+    },
+    {
+      "from": "X-06",
+      "to": "X-08",
+      "type": "piste",
+      "distance_km": 2.901,
+      "time_min": 6.96
+    },
+    {
+      "from": "X-07",
+      "to": "X-23",
+      "type": "route",
+      "distance_km": 1.0,
+      "time_min": 1.2
+    },
+    {
+      "from": "X-07",
+      "to": "X-24",
+      "type": "route",
+      "distance_km": 1.493,
+      "time_min": 1.79
+    },
+    {
+      "from": "X-07",
+      "to": "X-14",
+      "type": "piste",
+      "distance_km": 1.558,
+      "time_min": 3.74
+    },
+    {
+      "from": "X-08",
+      "to": "X-18",
+      "type": "piste",
+      "distance_km": 1.512,
+      "time_min": 3.63
+    },
+    {
+      "from": "X-08",
+      "to": "X-20",
+      "type": "piste",
+      "distance_km": 1.674,
+      "time_min": 4.02
+    },
+    {
+      "from": "X-08",
+      "to": "X-15",
+      "type": "piste",
+      "distance_km": 2.63,
+      "time_min": 6.31
+    },
+    {
+      "from": "X-09",
+      "to": "X-18",
+      "type": "piste",
+      "distance_km": 1.502,
+      "time_min": 3.6
+    },
+    {
+      "from": "X-09",
+      "to": "X-08",
+      "type": "route",
+      "distance_km": 2.95,
+      "time_min": 3.54
+    },
+    {
+      "from": "X-10",
+      "to": "X-21",
+      "type": "piste",
+      "distance_km": 1.739,
+      "time_min": 4.17
+    },
+    {
+      "from": "X-10",
+      "to": "X-17",
+      "type": "piste",
+      "distance_km": 1.863,
+      "time_min": 4.47
+    },
+    {
+      "from": "X-11",
+      "to": "X-16",
+      "type": "piste",
+      "distance_km": 1.39,
+      "time_min": 3.34
+    },
+    {
+      "from": "X-11",
+      "to": "X-19",
+      "type": "piste",
+      "distance_km": 3.5,
+      "time_min": 8.4
+    },
+    {
+      "from": "X-12",
+      "to": "X-14",
+      "type": "piste",
+      "distance_km": 2.491,
+      "time_min": 5.98
+    },
+    {
+      "from": "X-12",
+      "to": "X-23",
+      "type": "piste",
+      "distance_km": 2.801,
+      "time_min": 6.72
+    },
+    {
+      "from": "X-13",
+      "to": "X-25",
+      "type": "piste",
+      "distance_km": 1.871,
+      "time_min": 4.49
+    },
+    {
+      "from": "X-13",
+      "to": "X-22",
+      "type": "route",
+      "distance_km": 4.222,
+      "time_min": 5.07
+    },
+    {
+      "from": "X-13",
+      "to": "X-02",
+      "type": "route",
+      "distance_km": 5.275,
+      "time_min": 6.33
+    },
+    {
+      "from": "X-14",
+      "to": "X-23",
+      "type": "piste",
+      "distance_km": 1.907,
+      "time_min": 4.58
+    },
+    {
+      "from": "X-15",
+      "to": "X-19",
+      "type": "route",
+      "distance_km": 0.668,
+      "time_min": 0.8
+    },
+    {
+      "from": "X-15",
+      "to": "X-20",
+      "type": "piste",
+      "distance_km": 1.198,
+      "time_min": 2.88
+    },
+    {
+      "from": "X-16",
+      "to": "X-19",
+      "type": "route",
+      "distance_km": 4.84,
+      "time_min": 5.81
+    },
+    {
+      "from": "X-17",
+      "to": "X-01",
+      "type": "piste",
+      "distance_km": 2.011,
+      "time_min": 4.83
+    },
+    {
+      "from": "X-19",
+      "to": "X-20",
+      "type": "route",
+      "distance_km": 1.857,
+      "time_min": 2.23
+    },
+    {
+      "from": "X-22",
+      "to": "X-24",
+      "type": "piste",
+      "distance_km": 1.266,
+      "time_min": 3.04
+    },
+    {
+      "from": "X-22",
+      "to": "X-23",
+      "type": "piste",
+      "distance_km": 1.83,
+      "time_min": 4.39
+    },
+    {
+      "from": "X-23",
+      "to": "X-24",
+      "type": "piste",
+      "distance_km": 0.718,
+      "time_min": 1.72
+    },
+    {
+      "from": "X-25",
+      "to": "X-22",
+      "type": "piste",
+      "distance_km": 3.373,
+      "time_min": 8.1
+    },
+    {
+      "from": "X-25",
+      "to": "X-24",
+      "type": "route",
+      "distance_km": 4.306,
+      "time_min": 5.17
+    },
+    {
+      "from": "X-05",
+      "to": "X-14",
+      "type": "piste",
+      "distance_km": 3.062,
+      "time_min": 7.35
+    },
+    {
+      "from": "X-24",
+      "to": "X-06",
+      "type": "piste",
+      "distance_km": 4.117,
+      "time_min": 9.88
+    },
+    {
+      "from": "COORD-SN-CASA",
+      "to": "X-07",
+      "type": "route",
+      "distance_km": 1.273,
+      "time_min": 1.53
+    },
+    {
+      "from": "COORD-SN-CASA",
+      "to": "X-23",
+      "type": "route",
+      "distance_km": 2.207,
+      "time_min": 2.65
+    },
+    {
+      "from": "SN-CASA-001",
+      "to": "X-02",
+      "type": "sentier",
+      "distance_km": 0.759,
+      "time_min": 9.11
+    },
+    {
+      "from": "SN-CASA-002",
+      "to": "X-17",
+      "type": "sentier",
+      "distance_km": 2.011,
+      "time_min": 24.13
+    },
+    {
+      "from": "SN-CASA-002",
+      "to": "SN-CASA-011",
+      "type": "sentier",
+      "distance_km": 0.473,
+      "time_min": 5.68
+    },
+    {
+      "from": "SN-CASA-003",
+      "to": "X-19",
+      "type": "sentier",
+      "distance_km": 0.915,
+      "time_min": 10.98
+    },
+    {
+      "from": "SN-CASA-003",
+      "to": "SN-CASA-006",
+      "type": "sentier",
+      "distance_km": 2.008,
+      "time_min": 24.1
+    },
+    {
+      "from": "SN-CASA-004",
+      "to": "X-09",
+      "type": "piste",
+      "distance_km": 2.963,
+      "time_min": 7.11
+    },
+    {
+      "from": "SN-CASA-005",
+      "to": "X-24",
+      "type": "sentier",
+      "distance_km": 1.882,
+      "time_min": 22.58
+    },
+    {
+      "from": "SN-CASA-005",
+      "to": "SN-CASA-029",
+      "type": "sentier",
+      "distance_km": 1.134,
+      "time_min": 13.61
+    },
+    {
+      "from": "SN-CASA-006",
+      "to": "X-19",
+      "type": "piste",
+      "distance_km": 1.2,
+      "time_min": 2.88
+    },
+    {
+      "from": "SN-CASA-007",
+      "to": "X-03",
+      "type": "piste",
+      "distance_km": 0.929,
+      "time_min": 2.23
+    },
+    {
+      "from": "SN-CASA-008",
+      "to": "X-16",
+      "type": "sentier",
+      "distance_km": 2.062,
+      "time_min": 24.74
+    },
+    {
+      "from": "SN-CASA-008",
+      "to": "SN-CASA-049",
+      "type": "sentier",
+      "distance_km": 2.342,
+      "time_min": 28.1
+    },
+    {
+      "from": "SN-CASA-009",
+      "to": "X-05",
+      "type": "sentier",
+      "distance_km": 1.337,
+      "time_min": 16.04
+    },
+    {
+      "from": "SN-CASA-010",
+      "to": "X-22",
+      "type": "sentier",
+      "distance_km": 0.858,
+      "time_min": 10.3
+    },
+    {
+      "from": "SN-CASA-010",
+      "to": "SN-CASA-015",
+      "type": "sentier",
+      "distance_km": 0.667,
+      "time_min": 8.0
+    },
+    {
+      "from": "SN-CASA-011",
+      "to": "X-17",
+      "type": "sentier",
+      "distance_km": 2.299,
+      "time_min": 27.59
+    },
+    {
+      "from": "SN-CASA-012",
+      "to": "X-13",
+      "type": "piste",
+      "distance_km": 1.082,
+      "time_min": 2.6
+    },
+    {
+      "from": "SN-CASA-013",
+      "to": "X-25",
+      "type": "piste",
+      "distance_km": 1.216,
+      "time_min": 2.92
+    },
+    {
+      "from": "SN-CASA-013",
+      "to": "SN-CASA-022",
+      "type": "sentier",
+      "distance_km": 1.271,
+      "time_min": 15.25
+    },
+    {
+      "from": "SN-CASA-014",
+      "to": "X-08",
+      "type": "sentier",
+      "distance_km": 3.849,
+      "time_min": 46.19
+    },
+    {
+      "from": "SN-CASA-014",
+      "to": "SN-CASA-022",
+      "type": "sentier",
+      "distance_km": 1.737,
+      "time_min": 20.84
+    },
+    {
+      "from": "SN-CASA-015",
+      "to": "X-02",
+      "type": "piste",
+      "distance_km": 0.602,
+      "time_min": 1.44
+    },
+    {
+      "from": "SN-CASA-016",
+      "to": "X-02",
+      "type": "sentier",
+      "distance_km": 2.135,
+      "time_min": 25.62
+    },
+    {
+      "from": "SN-CASA-016",
+      "to": "SN-CASA-031",
+      "type": "sentier",
+      "distance_km": 1.459,
+      "time_min": 17.51
+    },
+    {
+      "from": "SN-CASA-017",
+      "to": "X-17",
+      "type": "piste",
+      "distance_km": 2.752,
+      "time_min": 6.6
+    },
+    {
+      "from": "SN-CASA-017",
+      "to": "SN-CASA-033",
+      "type": "sentier",
+      "distance_km": 1.878,
+      "time_min": 22.54
+    },
+    {
+      "from": "SN-CASA-018",
+      "to": "X-02",
+      "type": "sentier",
+      "distance_km": 0.847,
+      "time_min": 10.16
+    },
+    {
+      "from": "SN-CASA-019",
+      "to": "X-08",
+      "type": "sentier",
+      "distance_km": 2.165,
+      "time_min": 25.98
+    },
+    {
+      "from": "SN-CASA-019",
+      "to": "SN-CASA-024",
+      "type": "sentier",
+      "distance_km": 0.96,
+      "time_min": 11.52
+    },
+    {
+      "from": "SN-CASA-020",
+      "to": "X-14",
+      "type": "piste",
+      "distance_km": 0.736,
+      "time_min": 1.77
+    },
+    {
+      "from": "SN-CASA-021",
+      "to": "X-09",
+      "type": "sentier",
+      "distance_km": 1.309,
+      "time_min": 15.71
+    },
+    {
+      "from": "SN-CASA-022",
+      "to": "X-25",
+      "type": "sentier",
+      "distance_km": 2.466,
+      "time_min": 29.59
+    },
+    {
+      "from": "SN-CASA-023",
+      "to": "X-24",
+      "type": "piste",
+      "distance_km": 1.506,
+      "time_min": 3.61
+    },
+    {
+      "from": "SN-CASA-024",
+      "to": "X-08",
+      "type": "piste",
+      "distance_km": 1.653,
+      "time_min": 3.97
+    },
+    {
+      "from": "SN-CASA-025",
+      "to": "X-17",
+      "type": "sentier",
+      "distance_km": 4.995,
+      "time_min": 59.94
+    },
+    {
+      "from": "SN-CASA-025",
+      "to": "SN-CASA-033",
+      "type": "sentier",
+      "distance_km": 0.52,
+      "time_min": 6.24
+    },
+    {
+      "from": "SN-CASA-026",
+      "to": "X-07",
+      "type": "piste",
+      "distance_km": 2.105,
+      "time_min": 5.05
+    },
+    {
+      "from": "SN-CASA-026",
+      "to": "SN-CASA-038",
+      "type": "sentier",
+      "distance_km": 0.991,
+      "time_min": 11.89
+    },
+    {
+      "from": "SN-CASA-027",
+      "to": "X-08",
+      "type": "sentier",
+      "distance_km": 0.353,
+      "time_min": 4.24
+    },
+    {
+      "from": "SN-CASA-027",
+      "to": "SN-CASA-036",
+      "type": "sentier",
+      "distance_km": 0.384,
+      "time_min": 4.61
+    },
+    {
+      "from": "SN-CASA-028",
+      "to": "X-09",
+      "type": "sentier",
+      "distance_km": 1.297,
+      "time_min": 15.56
+    },
+    {
+      "from": "SN-CASA-029",
+      "to": "X-06",
+      "type": "piste",
+      "distance_km": 1.713,
+      "time_min": 4.11
+    },
+    {
+      "from": "SN-CASA-030",
+      "to": "X-17",
+      "type": "piste",
+      "distance_km": 0.807,
+      "time_min": 1.94
+    },
+    {
+      "from": "SN-CASA-030",
+      "to": "SN-CASA-002",
+      "type": "sentier",
+      "distance_km": 1.323,
+      "time_min": 15.88
+    },
+    {
+      "from": "SN-CASA-031",
+      "to": "X-13",
+      "type": "sentier",
+      "distance_km": 3.426,
+      "time_min": 41.11
+    },
+    {
+      "from": "SN-CASA-032",
+      "to": "X-12",
+      "type": "piste",
+      "distance_km": 1.214,
+      "time_min": 2.91
+    },
+    {
+      "from": "SN-CASA-032",
+      "to": "SN-CASA-035",
+      "type": "sentier",
+      "distance_km": 1.099,
+      "time_min": 13.19
+    },
+    {
+      "from": "SN-CASA-033",
+      "to": "X-17",
+      "type": "piste",
+      "distance_km": 4.491,
+      "time_min": 10.78
+    },
+    {
+      "from": "SN-CASA-034",
+      "to": "X-09",
+      "type": "sentier",
+      "distance_km": 1.37,
+      "time_min": 16.44
+    },
+    {
+      "from": "SN-CASA-035",
+      "to": "X-12",
+      "type": "piste",
+      "distance_km": 1.543,
+      "time_min": 3.7
+    },
+    {
+      "from": "SN-CASA-036",
+      "to": "X-08",
+      "type": "sentier",
+      "distance_km": 0.572,
+      "time_min": 6.86
+    },
+    {
+      "from": "SN-CASA-037",
+      "to": "X-08",
+      "type": "piste",
+      "distance_km": 0.848,
+      "time_min": 2.04
+    },
+    {
+      "from": "SN-CASA-037",
+      "to": "SN-CASA-036",
+      "type": "sentier",
+      "distance_km": 0.396,
+      "time_min": 4.75
+    },
+    {
+      "from": "SN-CASA-038",
+      "to": "X-07",
+      "type": "sentier",
+      "distance_km": 1.149,
+      "time_min": 13.79
+    },
+    {
+      "from": "SN-CASA-039",
+      "to": "X-07",
+      "type": "sentier",
+      "distance_km": 1.776,
+      "time_min": 21.31
+    },
+    {
+      "from": "SN-CASA-040",
+      "to": "X-16",
+      "type": "sentier",
+      "distance_km": 4.524,
+      "time_min": 54.29
+    },
+    {
+      "from": "SN-CASA-040",
+      "to": "SN-CASA-025",
+      "type": "sentier",
+      "distance_km": 1.422,
+      "time_min": 17.06
+    },
+    {
+      "from": "SN-CASA-041",
+      "to": "X-05",
+      "type": "piste",
+      "distance_km": 1.112,
+      "time_min": 2.67
+    },
+    {
+      "from": "SN-CASA-041",
+      "to": "SN-CASA-009",
+      "type": "sentier",
+      "distance_km": 0.881,
+      "time_min": 10.57
+    },
+    {
+      "from": "SN-CASA-042",
+      "to": "X-17",
+      "type": "sentier",
+      "distance_km": 1.92,
+      "time_min": 23.04
+    },
+    {
+      "from": "SN-CASA-043",
+      "to": "X-06",
+      "type": "sentier",
+      "distance_km": 1.411,
+      "time_min": 16.93
+    },
+    {
+      "from": "SN-CASA-044",
+      "to": "X-09",
+      "type": "piste",
+      "distance_km": 3.245,
+      "time_min": 7.79
+    },
+    {
+      "from": "SN-CASA-044",
+      "to": "SN-CASA-026",
+      "type": "sentier",
+      "distance_km": 1.263,
+      "time_min": 15.16
+    },
+    {
+      "from": "SN-CASA-045",
+      "to": "X-04",
+      "type": "piste",
+      "distance_km": 1.923,
+      "time_min": 4.62
+    },
+    {
+      "from": "SN-CASA-046",
+      "to": "X-18",
+      "type": "sentier",
+      "distance_km": 0.585,
+      "time_min": 7.02
+    },
+    {
+      "from": "SN-CASA-046",
+      "to": "SN-CASA-027",
+      "type": "sentier",
+      "distance_km": 1.165,
+      "time_min": 13.98
+    },
+    {
+      "from": "SN-CASA-047",
+      "to": "X-17",
+      "type": "sentier",
+      "distance_km": 3.434,
+      "time_min": 41.21
+    },
+    {
+      "from": "SN-CASA-047",
+      "to": "SN-CASA-002",
+      "type": "sentier",
+      "distance_km": 1.615,
+      "time_min": 19.38
+    },
+    {
+      "from": "SN-CASA-048",
+      "to": "X-02",
+      "type": "sentier",
+      "distance_km": 1.038,
+      "time_min": 12.46
+    },
+    {
+      "from": "SN-CASA-049",
+      "to": "X-16",
+      "type": "sentier",
+      "distance_km": 1.281,
+      "time_min": 15.37
+    },
+    {
+      "from": "SN-CASA-050",
+      "to": "X-22",
+      "type": "sentier",
+      "distance_km": 0.554,
+      "time_min": 6.65
+    },
+    {
+      "from": "SN-CASA-050",
+      "to": "SN-CASA-010",
+      "type": "sentier",
+      "distance_km": 1.395,
+      "time_min": 16.74
+    }
+  ]
+}
